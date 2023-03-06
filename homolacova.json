@@ -1,0 +1,11 @@
+{
+  "jmeno" : "Dan Šleis",
+  "vek" : 42,
+  "jestliMateKočku" : true,
+  "seznamKoníčků" : ["anime", "pc games", "hiking", "testing"],
+  "alergie" : null,
+  "kontaktníÚdaje" : {
+    "telefon" : "123 456 789",
+    "mail" : "daniel.sleis@unicorn.com"
+  }
+}

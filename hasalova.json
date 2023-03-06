@@ -1,0 +1,11 @@
+{
+  "name": "Alan",
+  "věk": 53,
+  "kočka":false,
+  "koníčky":["vaření","zahrádka","cyklistika"],
+  "alergie": null,
+  "kontakt":{
+    "tel.":565963369,
+    "mail":"al@da.cz"
+  }
+}
