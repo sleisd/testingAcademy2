@@ -1,0 +1,11 @@
+{
+  "name" : "Katka",
+  "age" : 30,
+  "thecatsowner" : false,
+  "hobbies" : [ "hiking",
+    "yoga", "ski"],
+  "allergy" : null,
+  "contacts" : {
+    "e-mail" : "xxx@xxx.com",
+    "tel" : "777777777"}
+}
